@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  url_api : "https://estaqueue.udpsa.com/informeTipificacion.php?JSON&ip=10.210.3.214&user=glukybd&password=reportes&FechaInicial=2021-01-01&FechaFinal=2022-01-01" 
 };
 
 /*
